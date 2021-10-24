@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Jordan's Blog
 
-You can use the [editor on GitHub](https://github.com/JoBBurt/JoBBurt.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a sixth year graduate student in the Department of Chemistry and the Institute of Environmental Health Sciences at Wayne State University in Detroit, MI.
+My research focus is to isolate extracellular vesicles from human blood plasma to increase the depth of coverage in a proteomic screen.
+My research brings me to the intersection of mass spectrometry-based proteomics, size-based separations, and informatics to identify novel patterns of disease progression.
 
-### Markdown
+### Research Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Blood plasma is a regularly sampled bodily fluid for routine healthcare screens, after sampling the proteins in blood plasma are interrogated via mass spectrometry or antibody-based immune assays.
+A major milestone in proteomics research was published in the Journal of Proteome Reserach in early December when the Human Proteome Project announced that over 90% of the predicted human proteins have been detected and validated.
+The announcement by the Human Plasma Proteome Project reports that there are at least 729 proteins found in blood, however many of these circulating proteins are not detected in proteomic screens using mass spectrometry.
+The protein concentrations in blood plasma span 14 orders of magnitude and highly abundant proteins limit the depth of coverage by masking lower abundance proteins in mass spectrometry-based proteomics.
+The low abundance proteins in blood plasma are the most likely to change as a response to disease progression and to change in response to a treatment.
+Increasing the depth of coverage in mass spectrometry-based proteomics means that low abundance proteins can be detected and characterized in healthy and unhealthy patients.
 
-```markdown
-Syntax highlighted code block
+Extracellular vesicles are membrane envelopes that are important vehicles of intercellular communication.
+Extracellular vesicles carry proteins and other biological macromolecules from cell to cell, providing protection from the -ase enzymes that would degrade the cargo in the extracellular space.
+The transfer of extracellular vesicle cargo from cell to cell is important for cellular function and disease progression as the physiological and pathological functions of the recipient cell are influenced by the cargo.
+The main hypothesis of my research is that extracellular vesicles can be isolated from blood plasma and that the protein cargo can be interrogated using mass spectrometry to identify patterns of differential protein abundance that is charactertic for asthma.
 
-# Header 1
-## Header 2
-### Header 3
+### ASMS 2021
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoBBurt/JoBBurt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
