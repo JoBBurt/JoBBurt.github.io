@@ -1,10 +1,12 @@
-## Welcome to Jordan's Blog
+## Landing Page
 
 ### About Me
 
 I am a sixth year graduate student in the Department of Chemistry and the Institute of Environmental Health Sciences at Wayne State University in Detroit, MI.
 My research focus is to isolate extracellular vesicles from human blood plasma to increase the depth of coverage in a proteomic screen.
 My research brings me to the intersection of mass spectrometry-based proteomics, size-based separations, and informatics to identify novel patterns of disease progression.
+
+My goal is to establish myself as an expert in mass spectrometry-based research.
 
 ### Research Background
 
@@ -18,4 +20,4 @@ Increasing the depth of coverage in mass spectrometry-based proteomics means tha
 Extracellular vesicles are membrane envelopes that are important vehicles of intercellular communication.
 Extracellular vesicles carry proteins and other biological macromolecules from cell to cell, providing protection from the -ase enzymes that would degrade the cargo in the extracellular space.
 The transfer of extracellular vesicle cargo from cell to cell is important for cellular function and disease progression as the physiological and pathological functions of the recipient cell are influenced by the cargo.
-The main hypothesis of my research is that extracellular vesicles can be isolated from blood plasma and that the protein cargo can be interrogated using mass spectrometry to identify patterns of differential protein abundance that is charactertic for asthma.
+The main hypothesis of my research is that extracellular vesicles can be isolated from blood plasma to increase the number of protein identifications via mass spectrometry and that the protein cargo can be interrogated to identify patterns of differential protein abundance.
