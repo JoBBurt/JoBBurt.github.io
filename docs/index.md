@@ -21,3 +21,26 @@ Extracellular vesicles are membrane envelopes that are important vehicles of int
 Extracellular vesicles carry proteins and other biological macromolecules from cell to cell, providing protection from the -ase enzymes that would degrade the cargo in the extracellular space.
 The transfer of extracellular vesicle cargo from cell to cell is important for cellular function and disease progression as the physiological and pathological functions of the recipient cell are influenced by the cargo.
 The main hypothesis of my research is that extracellular vesicles can be isolated from blood plasma to increase the number of protein identifications via mass spectrometry and that the protein cargo can be interrogated to identify patterns of differential protein abundance.
+
+### Publications
+
+1. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data. __Proteomes__. In progress.
+2. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. Enriching Extracellular Vesicles for Mass Spectrometry. __Mass Spectrometry Reviews__. **2021**. <10.1002/mas.21738>
+3. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. __Analytical Methods__. **2019**. <10.1039/c9ay01384a>
+
+### Presentations
+
+1. **Burton, J. B.**; Carruthers, N. J.; Stemmer, P.M. Protstatmd: A NextFlow Containerized Analysis Pipeline for Spectral Count Proteomic Analysis Doubles the Number of Pairwise Comparisons between Beer Samples. __Poster accepted for the 2021 ASMS Conference__ (Philadelphia, PA).
+2. **Burton, J. B.**; Carruthers, N. J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomic Data in a Proximity Labeling Experiment. __Poster presented at the 2021 22nd Annual Chemistry Graduate Research Symposium__ (Wayne State University).
+3. **Burton, J.B.**; Stemmer, P. M. Increasing the Depth of Coverage in Mass Spectrometry-Based Proteomics. __Talk presented at 2021 Biochemistry Seminar__ (Wayne State University).
+4. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. __Talk presented at the 2019 21st Annual Chemistry Graduate Research Symposium__ (Wayne State University).
+5. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. __Poster presented at the 2018 Future of Sustainable Design Through Polymer Science Symposium__.
+6. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. __Poster presented at the 2018 Anachem Symposium__. 
+
+### Contact Me
+
+**Twitter:** [@JoBBurt](https://twitter.com/JoBBurt)
+
+**Email:** <jordan.burton@wayne.edu>
+
+**GitHub:** <www.github.com/JoBBurt>
