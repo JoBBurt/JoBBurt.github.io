@@ -43,4 +43,4 @@ The main hypothesis of my research is that extracellular vesicles can be isolate
 
 **Email:** <jordan.burton@wayne.edu>
 
-**GitHub:** <www.github.com/JoBBurt>
+**GitHub:** www.github.com/JoBBurt
