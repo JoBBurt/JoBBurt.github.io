@@ -1,6 +1,4 @@
-## Landing Page
-
-### About Me
+## About Me
 
 I am a sixth year graduate student in the Department of Chemistry and the Institute of Environmental Health Sciences at Wayne State University in Detroit, MI.
 My research focus is to isolate extracellular vesicles from human blood plasma to increase the depth of coverage in a proteomic screen.
