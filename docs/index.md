@@ -25,8 +25,8 @@ The main hypothesis of my research is that extracellular vesicles can be isolate
 ### Publications
 
 1. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data. _Proteomes_. In progress.
-2. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. Enriching Extracellular Vesicles for Mass Spectrometry. _Mass Spectrometry Reviews_. **2021**. <10.1002/mas.21738>
-3. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. _Analytical Methods_. **2019**. <10.1039/c9ay01384a>
+2. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. Enriching Extracellular Vesicles for Mass Spectrometry. _Mass Spectrometry Reviews_. **2021**. https://doi.org/10.1002/mas.21738
+3. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. _Analytical Methods_. **2019**. https://doi.org/10.1039/c9ay01384a
 
 ### Presentations
 
