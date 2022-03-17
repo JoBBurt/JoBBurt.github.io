@@ -1,12 +1,17 @@
 ## About Me
 
-I am a sixth year graduate student in the Department of Chemistry and the Institute of Environmental Health Sciences at Wayne State University in Detroit, MI.
-My research focus is to isolate extracellular vesicles from human blood plasma to increase the depth of coverage in a proteomic screen.
-My research brings me to the intersection of mass spectrometry-based proteomics, size-based separations, and informatics to identify novel patterns of disease progression.
+I am a post-doctoral research fellow in Birgit Schilling's lab at the Buck Institute for Research on Aging in Novato, CA.
+My research is focused on understanding the age-based bone and neurological diseases.
+I use mass spectrometry-based proteomics to identify differentially abundant proteins between healthy control and diseased samples from a variety of sources including cell culture, mouse, and human specimens.
 
-My goal is to establish myself as an expert in mass spectrometry-based research.
+### Graduate Research Background at Wayne State University
 
-### Research Background
+I graduated with a Ph.D. from the Department of Chemistry and the Institute of Environmental Health Sciences at Wayne State University in Detroit, MI.
+My dissertation research focused on increasing the depth of coverage in human blood plasma through the enrichment of extracellular vesicles.
+My graduate research focus is to isolate extracellular vesicles from human blood plasma to increase the depth of coverage in a proteomic screen.
+My dissertation research brought me to the intersection of mass spectrometry-based proteomics, size-based separations, and informatics to identify novel patterns of disease progression.
+During my graduate career I established myself as an expert in the evaluation of extracellular vesicle preparations, performing label-free and isobaric labeling experiments, and using informatics to aid in the interpretation of proteomic data.
+Through this work, I have also established a proficiency in data-dependent acquisition, which I am currently honing at the Buck Institute for Research on Aging.
 
 Blood plasma is a regularly sampled bodily fluid for routine healthcare screens, after sampling the proteins in blood plasma are interrogated via mass spectrometry or antibody-based immune assays.
 A major milestone in proteomics research was published in the Journal of Proteome Reserach in early December when the Human Proteome Project announced that over 90% of the predicted human proteins have been detected and validated.
