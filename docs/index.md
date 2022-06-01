@@ -27,19 +27,20 @@ The main hypothesis of my research is that extracellular vesicles can be isolate
 
 ### Publications
 
-1. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data. _Proteomes_. Submitted.
+1. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. [Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data](https://doi.org/10.3390/proteomes10020018). _Proteomes_. **2022**, _10(2)_, 18.
 2. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. [Enriching Extracellular Vesicles for Mass Spectrometry](https://doi.org/10.1002/mas.21738). _Mass Spectrometry Reviews_. **2021**. 
 3. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. [Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis](https://doi.org/10.1039/c9ay01384a). _Analytical Methods_. **2019**.
 
 ### Presentations
 
-1. **Burton, J. B.**; Carruthers, N. J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Recognition plus Elute to Wash Ratios Identify Proteins of Interest in Proximity Labeling Experiments. _Poster accepted for the 2022 ASMS Conference_ (Minneapolis, MN).
-2. **Burton, J. B.**; Carruthers, N. J.; Stemmer, P.M. [Protstatmd: A NextFlow Containerized Analysis Pipeline for Spectral Count Proteomic Analysis Doubles the Number of Pairwise Comparisons between Beer Samples](ASMS2021.md). _Poster presented at the 2021 ASMS Conference_ (Philadelphia, PA).
-3. **Burton, J. B.**; Carruthers, N. J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomic Data in a Proximity Labeling Experiment. _Poster presented at the 2021 22nd Annual Chemistry Graduate Research Symposium_ (Wayne State University).
-4. **Burton, J.B.**; Stemmer, P. M. Increasing the Depth of Coverage in Mass Spectrometry-Based Proteomics. _Talk presented at 2021 Biochemistry Seminar_ (Wayne State University).
-5. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. _Talk presented at the 2019 21st Annual Chemistry Graduate Research Symposium_ (Wayne State University).
-6. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. _Poster presented at the 2018 Future of Sustainable Design Through Polymer Science Symposium_.
-8. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. _Poster presented at the 2018 Anachem Symposium_. 
+1. _Burton J. B._; Bons, J.; Silva-Barbosa, A.; Rose, J.; Pfister, K., Antonoplis, A.; Simona, F.; Gandhi,T.; Goetzman, E.; Sims-Lucas, S.; Hunter, C.; Bernhardt, O.; **Schilling, B.** High-throughput DIA Analysis of Ischemic Kidney Injury and Therapeutic Interventions using Multiple MS Platforms. _Presented at the 2022 ASMS Conference Biognosys Breakfast Seminar._
+2. **Burton, J. B.**; Carruthers, N. J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. [Pattern Recognition plus Elute to Wash Ratios Identify Proteins of Interest in Proximity Labeling Experiments](ASMS2022.md). _Poster accepted for the 2022 ASMS Conference_ (Minneapolis, MN).
+3. **Burton, J. B.**; Carruthers, N. J.; Stemmer, P.M. [Protstatmd: A NextFlow Containerized Analysis Pipeline for Spectral Count Proteomic Analysis Doubles the Number of Pairwise Comparisons between Beer Samples](ASMS2021.md). _Poster presented at the 2021 ASMS Conference_ (Philadelphia, PA).
+4. **Burton, J. B.**; Carruthers, N. J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. Pattern Analysis of Organellar Maps for the Interpretation of Proteomic Data in a Proximity Labeling Experiment. _Poster presented at the 2021 22nd Annual Chemistry Graduate Research Symposium_ (Wayne State University).
+5. **Burton, J.B.**; Stemmer, P. M. Increasing the Depth of Coverage in Mass Spectrometry-Based Proteomics. _Talk presented at 2021 Biochemistry Seminar_ (Wayne State University).
+6. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis. _Talk presented at the 2019 21st Annual Chemistry Graduate Research Symposium_ (Wayne State University).
+7. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. _Poster presented at the 2018 Future of Sustainable Design Through Polymer Science Symposium_.
+7. **Burton, J.B.**; Ward, C.; Linz, T. Microchip Electrophoresis Using a Thermally Tunable Sieving Matrix for Protein Separations. _Poster presented at the 2018 Anachem Symposium_. 
 
 ### Contact Me
 
