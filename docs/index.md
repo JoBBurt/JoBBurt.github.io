@@ -28,9 +28,10 @@ The main hypothesis of my research is that extracellular vesicles can be isolate
 ### Publications
 
 1. **Burton, J.B.**; Bons, J.; Silva-Barbosa, A.; Pfister, K.; Rose, J.; Antonoplis, A.; Simona, F.; Ghandi, T.; Bernhardt, O.;  Hunter, C.; Goetzman, E.; Sims-Lucas, S; Schilling, B. High-throughput DIA Analysis of Ischemic Kidney Injury using Fast Scanning ZenoTOF 7600. _In Progress._
-2. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. [Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data](https://doi.org/10.3390/proteomes10020018). _Proteomes_. **2022**, _10(2)_, 18.
-3. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. [Enriching Extracellular Vesicles for Mass Spectrometry](https://doi.org/10.1002/mas.21738). _Mass Spectrometry Reviews_. **2021**. 
-4. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. [Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis](https://doi.org/10.1039/c9ay01384a). _Analytical Methods_. **2019**.
+2. Bons, J.; Rose, J.; Zhang, R.; **Burton, J.B.**; Carrico, C.; Verdin, E.; Schilling, B.; In-depth Analysis of the Sirtuin 5-regulated Mouse Brain Acylome using Library-free Data-Independent Acquisitions. _Submitted._
+3. **Burton, J.B.**; Carruthers, N.J.; Matherly, L.H.; Hou, Z.; Stemmer, P.M. [Pattern Analysis of Organellar Maps for the Interpretation of Proteomics Data](https://doi.org/10.3390/proteomes10020018). _Proteomes_. **2022**, _10(2)_, 18.
+4. **Burton, J.B.**; Carruthers, N.J; Stemmer, P.M. [Enriching Extracellular Vesicles for Mass Spectrometry](https://doi.org/10.1002/mas.21738). _Mass Spectrometry Reviews_. **2021**. 
+5. **Burton, J.B.**; Ward, C.; Klemet, D.; Linz, T. [Incorporation of Thermal Gels for Facile Microfluidic Transient Isotachophoresis](https://doi.org/10.1039/c9ay01384a). _Analytical Methods_. **2019**.
 
 ### Presentations
 
